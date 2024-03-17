@@ -1,0 +1,171 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+    color: #333;
+    line-height: 1.6;
+}
+.div1{
+    background-image: url(depositphotos_20131005-stock-photo-group-african-university-students-in.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+.div2{
+    font-size: 50px;
+    font-weight: 300;
+}
+.div3{
+    background-image: url(TRAVAILLER-NUMERIQUE-DIJON-Weckerle_Pole-Robotique-7.jpeg);
+    background-image: url(OIP\ \(2\).jpeg);
+    background-image: url(OIP\ \(5\).jpeg);
+    background-image: url(OIP\ \(3\).jpeg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+.div4{
+    background-image: url(OIP\ \(5\).jpeg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh; 
+}
+.div5{
+    background-image: url(TRAVAILLER-NUMERIQUE-DIJON-Weckerle_Pole-Robotique-7.jpeg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #f8f8f8;
+    color: #333;
+    padding: 20px;
+}
+
+.module {
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.module h2 {
+    font-size: 1.5rem;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+.module p {
+    font-size: 1rem;
+    color: #666;
+    margin-bottom: 10px;
+}
+
+.module p:last-child {
+    margin-bottom: 0;
+}
+
+
+
+header {
+    background-color: #0074D9;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+header h1 {
+    font-size: 2.5rem;
+    margin-bottom: 10px;
+}
+
+nav ul {
+    list-style: none;
+}
+
+nav ul li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+}
+
+
+#accueil {
+    padding: 40px;
+    text-align: center;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+#accueil h2 {
+    font-size: 1.8rem;
+    margin-bottom: 20px;
+}
+
+#accueil p {
+    font-size: 1.2rem;
+    color: #555;
+}
+figcaption{
+    text-align: left;
+    font-size: 20px;
+}
+h1{
+    text-shadow: 5px 3px 3px red;
+    font-size: 75px;
+    text-transform: uppercase;
+}
+h2{
+    background-color: chocolate;
+    width: 100%;
+}
+
+
+
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #333;
+    color: #fff;
+}
+img{
+    height: 25%;
+    width: 15%;
+    float: left;
+}
+div{
+    background-image:url(OIP (2).jpeg) ;
+}
+
+@media screen and (max-width: 768px) {
+    header h1 {
+        font-size: 2rem;
+    }
+}
